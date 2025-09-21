@@ -1,7 +1,8 @@
 <html>
   <code>
     hello world
-    <br>
+  </code>
+  <code>
     hi
   </code>
 </html>
